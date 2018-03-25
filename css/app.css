@@ -1,0 +1,237 @@
+.header {
+  margin-bottom: 0;
+}
+.header a {
+  color: #563d7c;
+  cursor: pointer;
+}
+.header li a:hover,
+.header li a.choose {
+  background-color: #f9f9f9;
+}
+.home .banner {
+  color: #fff;
+  padding: 80px 0;
+  text-align: center;
+  background: -webkit-linear-gradient(#563d7c, #644a8d);
+  background: -o-linear-gradient(#563d7c, #644a8d);
+  background: -moz-linear-gradient(#563d7c, #644a8d);
+  background: -ms-linear-gradient(#563d7c, #644a8d);
+  background: linear-gradient(#563d7c, #644a8d);
+}
+.home .banner .B {
+  width: 140px;
+  margin: 0 auto;
+  height: 140px;
+  line-height: 140px;
+  font-size: 108px;
+  border: 1px solid #fff;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+  border-radius: 20px;
+}
+.home .banner h1 {
+  width: 752px;
+  margin: 0 auto;
+  font-weight: lighter;
+  font-size: 30px;
+  line-height: 40px;
+  margin-top: 40px;
+}
+.home .banner a {
+  margin-top: 30px;
+  font-size: 20px;
+  border: 1px solid #fff;
+  padding: 15px 30px;
+  color: #fff;
+}
+.home .banner a:hover {
+  background-color: #fff;
+  color: #563d7c;
+}
+.home .banner p {
+  color: #a38cc6;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+.first-section {
+  padding: 100px 0;
+  text-align: center;
+  color: #000;
+}
+.first-section h1 {
+  font-size: 40px;
+  font-weight: bolder;
+}
+.first-section p {
+  width: 752px;
+  margin: 0 auto;
+  font-size: 21px;
+}
+.first-section .line {
+  width: 100px;
+  margin: 0 auto;
+  margin: 40px auto;
+  border-top: 1px solid #eee;
+}
+.first-section button {
+  margin-top: 20px;
+  background-color: #fff;
+  border: 1px solid #563d7c;
+  color: #563d7c;
+}
+.first-section button:hover {
+  background-color: #563d7c;
+  color: #fff;
+}
+.first-section ul {
+  list-style: none;
+  padding: 0;
+}
+.first-section ul li {
+  float: left;
+  width: 33.33333333%;
+}
+.first-section ul li img {
+  width: 100%;
+}
+.first-section ul li h3 {
+  margin-top: 20px;
+  font-size: 24px;
+}
+.first-section ul li p {
+  color: #555;
+  width: 90%;
+  font-size: 16px;
+}
+.second-section {
+  padding: 100px 0;
+  text-align: center;
+  color: #000;
+}
+.second-section h1 {
+  font-size: 40px;
+  font-weight: bolder;
+}
+.second-section p {
+  width: 752px;
+  margin: 0 auto;
+  font-size: 21px;
+}
+.second-section .line {
+  width: 100px;
+  margin: 0 auto;
+  margin: 40px auto;
+  border-top: 1px solid #eee;
+}
+.second-section button {
+  margin-top: 20px;
+  background-color: #fff;
+  border: 1px solid #563d7c;
+  color: #563d7c;
+}
+.second-section button:hover {
+  background-color: #563d7c;
+  color: #fff;
+}
+.second-section ul {
+  list-style: none;
+  padding: 0;
+}
+.second-section ul li {
+  float: left;
+  width: 33.33333333%;
+}
+.second-section ul li img {
+  width: 100%;
+}
+.second-section ul li h3 {
+  margin-top: 20px;
+  font-size: 24px;
+}
+.second-section ul li p {
+  color: #555;
+  width: 90%;
+  font-size: 16px;
+}
+.second-section ul li {
+  width: 25%;
+}
+.second-section ul li img {
+  width: 99%;
+}
+.device-line {
+  border-top: 1px solid #eee;
+}
+.foot {
+  padding: 50px 0;
+  background-color: #2a2730;
+}
+.foot div {
+  margin-bottom: 30px;
+}
+.foot div a {
+  color: #fff;
+  margin-right: 20px;
+}
+.foot p {
+  color: #99979c;
+}
+.foot p a {
+  color: #fff;
+}
+.page .banner {
+  padding: 60px 0;
+  background: -webkit-linear-gradient(#563d7c, #644a8d);
+  background: -o-linear-gradient(#563d7c, #644a8d);
+  background: -moz-linear-gradient(#563d7c, #644a8d);
+  background: -ms-linear-gradient(#563d7c, #644a8d);
+  background: linear-gradient(#563d7c, #644a8d);
+}
+.page .banner h1 {
+  font-size: 60px;
+  color: #fff;
+}
+.page .banner p {
+  font-size: 24px;
+  color: #dad0e8;
+}
+.page .article {
+  float: left;
+  width: 700px;
+}
+.page .article ul {
+  list-style: none;
+  padding: 0;
+}
+.page .article ul li {
+  margin-bottom: 100px;
+}
+.page .article ul li p {
+  margin-top: 30px;
+}
+.page .aside {
+  margin-left: 750px;
+}
+.page .aside ul {
+  padding-top: 100px;
+  list-style: none;
+  padding: 0;
+}
+.page .aside ul li a {
+  display: inline-block;
+  color: #767676;
+  font-size: 13px;
+  padding: 10px;
+  border: 1px solid transparent;
+}
+.page .aside ul li a:hover {
+  text-decoration: none;
+  color: #563d7c;
+  border-left-color: #563d7c;
+}
+.page .addPadding {
+  padding-top: 50px;
+}
